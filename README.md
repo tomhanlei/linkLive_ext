@@ -13,7 +13,7 @@ These similar websites recommendations are based on the relationship of millions
 2. Open up the Chrome menu by clicking the icon at the right of the address bar and select Settings in the menu, as follows.
 ![alt tag](https://raw.githubusercontent.com/tomhanlei/linkLive_ext/master/2.png)
 
-3. Select Extensions (1) under the tools menu, and check the Developer mode checkbox (2). Then click the button of Load unpacked extension (3).
+3. Select Extensions`(1)` under the tools menu, and check the Developer mode checkbox`(2)`. Then click the button of Load unpacked extension`(3)`.
 ![alt tag](https://raw.githubusercontent.com/tomhanlei/linkLive_ext/master/3.png)
 
 4. Navigate to the directory of **extension_package**, and select it, as below.
