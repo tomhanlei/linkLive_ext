@@ -1,5 +1,5 @@
 # linkLive_ext
-Get insights for hyperlinks in Stack Overflow
+A Chrome extension to recommend similar or related websites.
 
 ## Brief intro:
 This is a Chrome extension to provide **insights of similar websites** to the current web page.
