@@ -1,5 +1,5 @@
 # linkLive_ext
-A Chrome extension to recommend similar or related websites and online resources.
+A Chrome extension to recommend similar or related websites and other online resources.
 
 ## Brief intro:
 This is a Chrome extension to provide **insights of similar websites** to the current web page.
