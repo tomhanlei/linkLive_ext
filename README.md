@@ -9,17 +9,17 @@ These similar websites recommendations are based on the relationship of millions
 * The extension can automatically capture the url of the current web page. If the url is in our database, the extension 
 
 ## Usage:
-* Download the whole project in the form of zip. And then unzip (extract) the extension package to whichever directory you like.
-* Open up the Chrome menu by clicking the icon at the right of the address bar and select Settings in the menu, as follows.
+1. Download the whole project in the form of zip. And then unzip (extract) the extension package to whichever directory you like.
+2. Open up the Chrome menu by clicking the icon at the right of the address bar and select Settings in the menu, as follows.
 ![alt tag](https://raw.githubusercontent.com/tomhanlei/linkLive_ext/master/2.png)
 
-* Select Extensions(1) under the tools menu, and check the Developer mode checkbox(2). Then click the button of Load unpacked extension(3).
+3. Select Extensions (1) under the tools menu, and check the Developer mode checkbox (2). Then click the button of Load unpacked extension (3).
 ![alt tag](https://raw.githubusercontent.com/tomhanlei/linkLive_ext/master/3.png)
 
-* Navigate to the directory of **extension_package**, and select it, as below.
+4. Navigate to the directory of **extension_package**, and select it, as below.
 ![alt tag](https://raw.githubusercontent.com/tomhanlei/linkLive_ext/master/4.png)
 
-* It should be loaded up and active right now, with a blue icon added to the right of the address bar.
+5. It should be loaded up and active right now, with a blue icon added to the right of the address bar.
 ![alt tag](https://raw.githubusercontent.com/tomhanlei/linkLive_ext/master/5.png)
 
 ## Contact:
