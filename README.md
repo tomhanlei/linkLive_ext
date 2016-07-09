@@ -7,6 +7,7 @@ This is a Chrome extension to provide **insights of similar websites** to the cu
 ## Functions:
 * The extension can automatically capture the url of the current web page. If the url is in our database, the extension will show recommendations.
 * The recommendation of similar website is ranked by its relationship with the current page, together with its citation trend in discussion in Stack Overflow, which help users compare the popularity of each similar resource.
+* Additional information is also provided, such as what concepts or technologies are surrounded, etc.
 
 ## Usage:
 1. Download the whole project in the form of zip. And then unzip (extract) the extension package to whichever directory you like.
