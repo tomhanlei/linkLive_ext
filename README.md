@@ -10,7 +10,7 @@ These similar websites recommendations are based on the relationship of millions
 
 ## Usage:
 1. Download the whole project in the form of zip. And then unzip (extract) the extension package to whichever directory you like.
-2. Open up the Chrome menu by clicking the icon at the right of the address bar and select Settings in the menu, as follows.
+2. Open up the Chrome menu by clicking the icon at the right of the address bar and select Settings in the menu (as shown in the following figure).
 ![alt tag](https://raw.githubusercontent.com/tomhanlei/linkLive_ext/master/x2.png)
 
 3. Select Extensions`(1)` under the tools menu, and check the Developer mode checkbox`(2)`. Then click the button of Load unpacked extension`(3)`.
