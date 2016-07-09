@@ -27,6 +27,6 @@ This is a Chrome extension to provide **insights of similar websites** to the cu
 ![alt tag](https://raw.githubusercontent.com/tomhanlei/linkLive_ext/master/x6.png)
 
 ## Contact:
-If you have any problem, please do not hesitate to contact me at jli030|e.ntu.edu.sg. (change "|" to "@").
+If you have any problem, please do not hesitate to contact jli030|e.ntu.edu.sg. (change "|" to "@").
 
 Thanks and enjoy the journey.
