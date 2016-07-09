@@ -2,11 +2,11 @@
 A Chrome extension to recommend similar or related websites and other online resources.
 
 ## Brief intro:
-This is a Chrome extension to provide **insights of similar websites** to the current web page.
-These similar websites recommendations are based on the relationship of millions of hyperlinks mined from discussions in Stack Overflow. They can enrich your knowledge by providing you with related web resources according to their similarity.
+This is a Chrome extension to provide **insights of similar websites** to the current web page. The goal is to recommend high quality and trustworthy web resources while users browse web pages. These recommendations are based on the relationship of millions of hyperlinks mined from discussions in Stack Overflow. They can enrich your knowledge by providing you with real-time related web resources according to their similarity.
 
 ## Functions:
-* The extension can automatically capture the url of the current web page. If the url is in our database, the extension 
+* The extension can automatically capture the url of the current web page. If the url is in our database, the extension will show recommendations.
+* The recommendation of similar website is ranked by its relationship with the current page, together with its citation trend in discussion in Stack Overflow, which help users compare the popularity of each similar resource.
 
 ## Usage:
 1. Download the whole project in the form of zip. And then unzip (extract) the extension package to whichever directory you like.
