@@ -23,6 +23,9 @@ This is a Chrome extension to provide **insights of similar websites** to the cu
 5. It should be loaded up and active right now, with a blue icon added to the right of the address bar.
 ![alt tag](https://raw.githubusercontent.com/tomhanlei/linkLive_ext/master/x5.png)
 
+6. When user browses websites, just click the extension icon and a popup tooltip will show the recommendations (see below).
+![alt tag](https://raw.githubusercontent.com/tomhanlei/linkLive_ext/master/x6.png)
+
 ## Contact:
 If you have any problem, please do not hesitate to contact me at jli030|e.ntu.edu.sg. (change "|" to "@").
 
